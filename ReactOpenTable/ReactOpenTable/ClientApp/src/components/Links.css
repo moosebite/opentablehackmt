@@ -1,0 +1,7 @@
+﻿.classname:link {
+    color: orange;
+}
+
+p a:link {
+    color: maroon;
+}
